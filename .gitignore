@@ -1,0 +1,27 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Godot / OIP
+.godot/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Sensitive information
+.env
+.env.*
+!.env.example
+
+# Local reference and private data
+private/
+references/
+original_backup/
